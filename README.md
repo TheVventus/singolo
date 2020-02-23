@@ -1,1 +1,1 @@
-Домашнее задание: Singolo
+https://thevventus.github.io/singolo
