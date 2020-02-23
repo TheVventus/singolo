@@ -1,1 +1,1 @@
-Домашнее задание: Singolo
+TheVVentus.github.io/singolo
