@@ -1,1 +1,1 @@
-TheVVentus.github.io/singolo
+https://thevventus.github.io/singolo
