@@ -22,6 +22,9 @@ body {
 .header {
     background-color: #2d303a;
     border-bottom: 8px solid #323746;
+    position: sticky;
+    top: 0;
+    z-index: 1;
 }
 .header_content {
     display: flex;
@@ -66,9 +69,11 @@ body {
     position: relative;
     bottom: 3px;
     left: 15px;
-    color: #fff;
     font-weight: 700;
     color: #494e62;
+}
+.current {
+    color: #f06c64;
 }
 /* Стили контента*/
 /* Слайдер */
